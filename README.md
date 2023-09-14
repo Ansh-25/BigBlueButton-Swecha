@@ -1,0 +1,1 @@
+THe project focused on creating a POC for multi screen sharinf feature in BigBlueButton an open source web conferencing system.
